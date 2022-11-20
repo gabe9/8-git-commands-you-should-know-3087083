@@ -24,5 +24,10 @@
   "liveServer.settings.root": "/docs",
   "prettier.enable": true,
   "eslint.alwaysShowStatus": false,
-  "liveServer.settings.donotVerifyTags": true
+  "liveServer.settings.donotVerifyTags": true,
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#541B13",
+    "titleBar.activeBackground": "#75261B",
+    "titleBar.activeForeground": "#FDF8F8"
+  }
 }
